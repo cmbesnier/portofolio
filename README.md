@@ -4,11 +4,11 @@
 
 ## Implémentation d'un modèle de scoring
 
-**Développement d’un modèle de détection du risque de faillite bancaire et déploiement d’une application de type dashboard interactif**
+Développement d’un modèle de détection du risque de faillite bancaire et déploiement d’une application de type dashboard interactif
 
 *Classification binaire / Métrique custom / Light GBM / Dashboard / Streamlit*
 
-![Dashboard](/assets/dashboard.png)
+![Dashboard](/assets/bank-loan-pic.png)
 
 **Données** : 
 - 7 tables de données contenant des informations diverses sur plus de 300 000 clients ayant fait une ou plusieurs demandes de prêts  
