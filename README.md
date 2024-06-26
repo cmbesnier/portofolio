@@ -6,7 +6,7 @@
 
 ***Développement d’un modèle de détection du risque de faillite bancaire et déploiement d’une application de type dashboard interactif***
 
-*Classification / Métrique custom / Light GBM / Streamlit*
+*Classification binaire / Métrique custom / Light GBM / Dashboard / Streamlit*
 
 ![Dashboard](/assets/dashboard.png)
 
