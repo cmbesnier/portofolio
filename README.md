@@ -25,7 +25,7 @@ Développement d’un modèle de détection du risque de faillite bancaire et d�
 
 Segmentation d’une base clients pour une entreprise de e-commerce et validation de la stabilité des clusters
 
-* Clustering / Réduction de dimension / Interprétabilité / Sankey Diagram *
+*Clustering / Réduction de dimension / Interprétabilité / Sankey Diagram*
 
 ![clustering](/assets/clustering.png)
 
