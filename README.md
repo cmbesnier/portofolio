@@ -4,7 +4,7 @@
 
 ## Implémentation d'un modèle de scoring
 
-***Développement d’un modèle de détection du risque de faillite bancaire et déploiement d’une application de type dashboard interactif***
+**Développement d’un modèle de détection du risque de faillite bancaire et déploiement d’une application de type dashboard interactif**
 
 *Classification binaire / Métrique custom / Light GBM / Dashboard / Streamlit*
 
