@@ -10,7 +10,7 @@ Développement d’un modèle de détection du risque de faillite bancaire et d�
 
 ![Dashboard](/assets/bank-loan-pic.png)
 
-**Données** : 
+**Données** 
 - 7 tables de données contenant des informations diverses sur plus de 300 000 clients ayant fait une ou plusieurs demandes de prêts  
 
 **Démarche**
@@ -19,6 +19,29 @@ Développement d’un modèle de détection du risque de faillite bancaire et d�
 - Optimisation et comparaison de modèles en utilisant des méthodes de blending et stacking
 - Sélection du modéle Light GBM 
 - Création et déploiement d’un dashboard interactif avec Streamlit
+
+
+## Segmentation d'une base client
+
+Segmentation d’une base clients pour une entreprise de e-commerce et validation de la stabilité des clusters
+
+* Clustering / Réduction de dimension / Interprétabilité / Sankey Diagram *
+
+![clustering](/assets/clustering.png)
+
+**Données**
+- Base de données de plus de 90 000 clients. 8 fichiers de données concernant les achats, les paiements, les appréciations, etc.
+
+**Démarche**
+- Création de variables interprétables et actionnables en termes marketing
+- Optimisation du nombre et de la taille des clusters avec les algorithmes k-Means et DB Scan
+- Visualisation des clusters par réduction de dimensions (ACP, t-SNE)
+- Interprétation des caractéristiques des clusters 
+- Validation de la stabilité des clusters retenus sur une période de 6 mois
+
+
+
+
 
 
 
