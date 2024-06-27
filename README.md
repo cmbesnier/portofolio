@@ -1,4 +1,4 @@
-# Portofolio Data Science
+# Portfolio Data Science
 Sélection de quelques projets dans le cadre de ma formation OpenClassrooms
 
 &nbsp;
