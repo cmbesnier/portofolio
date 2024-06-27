@@ -27,10 +27,7 @@ Développement d’un modèle de détection du risque de faillite bancaire et d�
 **Résultats**
 - Sélection du modéle Light GBM
 - Création et déploiement d’un [dashboard interactif](https://cmbesnier-credit-dashboard-main-wndjuj.streamlit.app/) avec prédiction live en utilisant Streamlit
-
-[Note méthodologique](https://github.com/cmbesnier/credit-dashboard/blob/main/P7-03-note%20me%CC%81thodologique.pdf)
-
-[Repo Github](https://github.com/cmbesnier/credit-dashboard/)
+- [Note méthodologique](https://github.com/cmbesnier/credit-dashboard/blob/main/P7-03-note%20me%CC%81thodologique.pdf) / [Repo Github](https://github.com/cmbesnier/credit-dashboard/)
 
 &nbsp;
 &nbsp;
