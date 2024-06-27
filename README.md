@@ -11,9 +11,9 @@ Sélection de quelques projets dans le cadre de ma formation OpenClassrooms
 ---------
 Développement d’un modèle de détection du risque de faillite bancaire et déploiement d’une application de type dashboard interactif
 
-*Classification binaire / Métrique custom / Light GBM / Dashboard / Streamlit*
+*Classification binaire / Métrique spécifique / Light GBM / Dashboard / Streamlit*
 
-![Dashboard](/assets/bank-loan-pic.png)
+![Dashboard](/assets/bankloan-dashboard.png)
 
 **Données** 
 - 7 tables de données contenant des informations diverses sur plus de 300 000 clients ayant fait une ou plusieurs demandes de prêts  
@@ -21,11 +21,15 @@ Développement d’un modèle de détection du risque de faillite bancaire et d�
 **Démarche**
 - Analyse exploratoire et sélection de variables pertinentes
 - Définition d’une métrique d’évaluation spécifique aux coûts et pertes associés
+- Test de plusieurs méthodes pour pallier aux deséquilibres des classes
 - Optimisation et comparaison de modèles en utilisant des méthodes de blending et stacking
 
 **Résultats**
 - Sélection du modéle Light GBM
-- Création et déploiement d’un dashboard interactif avec prédiction live en utilisant Streamlit
+- Création et déploiement d’un [dashboard interactif](https://cmbesnier-credit-dashboard-main-wndjuj.streamlit.app/) avec prédiction live en utilisant Streamlit
+
+[Note méthodologique] (https://github.com/cmbesnier/credit-dashboard/blob/main/P7-03-note%20me%CC%81thodologique.pdf)
+[Repo Github] (https://github.com/cmbesnier/credit-dashboard/)
 
 &nbsp;
 &nbsp;
