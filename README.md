@@ -1,7 +1,5 @@
 # Portofolio Data Science
 Sélection de quelques projets dans le cadre de ma formation OpenClassrooms
----------
----------
 
 &nbsp;
 &nbsp;
@@ -49,12 +47,12 @@ Segmentation d’une base clients pour une entreprise de e-commerce et validatio
 - Création de variables interprétables et actionnables en termes marketing
 - Optimisation du nombre et de la taille des clusters avec les algorithmes k-Means et DB Scan
 - Visualisation des clusters par réduction de dimensions (ACP, t-SNE)
-- Validation de la stabilité des clusters avec différents indicateurs
+- Test de la stabilité des clusters avec différents indicateurs
 
 **Résultats**
-- Sélection de 5 clusters avec k-Means
+- Choix de retenir 5 clusters (algorithme k-Means)
 - Interprétation des caractéristiques des clusters en termes marketing
-- Sankey digram illustrant la stabilité des clusters retenus sur une période de 6 mois
+- Validation de la stabilité des clusters retenus sur une période de 6 mois et visualisation avec diagramme de Sankey
 
 &nbsp;
 &nbsp;
@@ -77,12 +75,12 @@ Faisabilité du classement automatique des articles d’un site de vente en lign
 - Comparaison des performances avec celles de réseaux de neurones pré-entraînés
 - Segmentation des articles en groupes aux caractéristiques similaires et comparaison avec les catégories réelles
 
-![reconnaissance-articles-1](/assets/reconnaissance-articles-2.png)
-
 **Résultats**
 - Meilleurs résultats obtenus avec les algorithmes de Transfert Learning : 
   - Textes : ARI = 71% avec algorithme USE 
   - Images : ARI = 41% avec algorithme ResNet50
+ 
+ ![reconnaissance-articles-1](/assets/reconnaissance-articles-2.png)
 
 &nbsp;
 &nbsp;
@@ -109,9 +107,7 @@ Développement d'un modèle de prédictions des consommations d’énergie et d'
 
 **Résultats**
 - Pertinence des variables crées, notamment le mix énergétique
-- Sélection du modèle linéaire ElasticNet
-  - R2 = 0,89 pour les consommations d’énergie
-  - R2 = 0,81 pour les émissions de gaz à effet de serre
+- Meilleures performances obtenues avec le modèle linéaire ElasticNet
  
 ![energy-pred](/assets/energy-pred-2.png)
 
