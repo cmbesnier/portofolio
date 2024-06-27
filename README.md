@@ -1,4 +1,11 @@
-# Portofolio Data Science
+# Claire-Marie BESNIER
+
+Ingénieure avec 8 ans d’expérience dans l’énergie et l’aménagement urbain, j’ai ajouté une brique data science à mon profil en 2021. Curieuse, méthodique et organisée, j’aime me confronter à des problématiques métier variées, dans un contexte français ou international.
+
+> [LinkedIn](https://www.linkedin.com/in/cmbesnier/)
+
+
+# Projets Data Science
 Sélection de quelques projets dans le cadre de ma formation OpenClassrooms
 
 &nbsp;
@@ -29,6 +36,7 @@ Développement d’un modèle de détection du risque de faillite bancaire et d�
 - Création et déploiement d’un [dashboard interactif](https://cmbesnier-credit-dashboard-main-wndjuj.streamlit.app/) avec prédiction live en utilisant Streamlit
 
 [Note méthodologique](https://github.com/cmbesnier/credit-dashboard/blob/main/P7-03-note%20me%CC%81thodologique.pdf)
+
 [Repo Github](https://github.com/cmbesnier/credit-dashboard/)
 
 &nbsp;
