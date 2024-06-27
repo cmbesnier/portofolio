@@ -55,7 +55,7 @@ Segmentation d’une base clients pour une entreprise de e-commerce et validatio
 &nbsp;
 &nbsp;
 
-# CLASSIFICATION AUTOMATIQUE D’ARTICLES
+# Classification automatique d'articles
 ---------
 Faisabilité du classement automatique des articles d’un site de vente en ligne sur la base de la description et de la photo d’un article
 *NLP / Image processing / Transfer learning / Clustering*
@@ -73,34 +73,39 @@ Faisabilité du classement automatique des articles d’un site de vente en lign
 ![reconnaissance-articles-1](/assets/reconnaissance-articles-2.png)
 
 **Résultats**
-Meilleurs résultats obtenus avec les algorithmes de Transfert Learning : 
-- Textes : ARI = 71% avec algorithme USE 
-- Images : ARI = 41% avec algorithme ResNet50
+- Meilleurs résultats obtenus avec les algorithmes de Transfert Learning : 
+  - Textes : ARI = 71% avec algorithme USE 
+  - Images : ARI = 41% avec algorithme ResNet50
 
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 
-# PRÉDICTION DE CONSOMMATIONS D’ÉNERGIE ET ÉMISSIONS DE GAZ A EFFETS DE SERRE
+# Prédiction de consommation d'énergie
 ---------
-Développement d'un modèle de prédictions des consommations d’énergie de bâtiments tertiaires avec un apprentissage supervisé
+Développement d'un modèle de prédictions des consommations d’énergie et d'émissions de gaz à effets de serre pour des bâtiments tertiaires
+*Régression / Feature engineering / Hyper-paramètres / Métriques*
 
-![energy-pred](/assets/energy-pred.png)
+![energy-pred](/assets/energy-pred-1.png)
 
 **Données**
-- Caractéristiques énergie et émissions de 3 400 bâtiments de la Ville de Seattle pour 2015 et 2016 (open data)
+- Caractéristiques, énergie et émissions de 3 400 bâtiments de la Ville de Seattle pour 2015 et 2016 (open data)
 
 **Démarche**
 - Analyse exploratoire
 - Feature engineering : création de plusieurs variables pertinentes (catégorie de bâtiments, profil énergétique, ...)
+- Comparaison et choix de métriques
 - Comparaison de plusieurs modèles de régression (Lasso, ElasticNet, SVR RandomForrest, XGBoost)
 - Optimisation des hyper-paramètres
 
 **Résultats**
-Sélection du modèle linéaire ElasticNet
-- R2 = 0,89 pour les consommations d’énergie
-- R2 = 0,81 pour les émissions de gaz à effet de serre
+- Pertinence des variables crées, notamment le mix énergétique
+- Sélection du modèle linéaire ElasticNet
+  - R2 = 0,89 pour les consommations d’énergie
+  - R2 = 0,81 pour les émissions de gaz à effet de serre
+ 
+![energy-pred](/assets/energy-pred-2.png)
 
 
 
