@@ -2,7 +2,10 @@
 
 Sélection de quelques projets dans le cadre de ma formation OpenClassrooms
 
+  
+
 ---------
+  
 
 ## Implémentation d'un modèle de scoring
 
@@ -22,8 +25,12 @@ Développement d’un modèle de détection du risque de faillite bancaire et d�
 - Sélection du modéle Light GBM 
 - Création et déploiement d’un dashboard interactif avec Streamlit
 
+  
+
 ---------
 
+
+  
 ## Segmentation d'une base client
 
 Segmentation d’une base clients pour une entreprise de e-commerce et validation de la stabilité des clusters
