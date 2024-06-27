@@ -24,8 +24,10 @@ Développement d’un modèle de détection du risque de faillite bancaire et d�
 - Analyse exploratoire et sélection de variables pertinentes
 - Définition d’une métrique d’évaluation spécifique aux coûts et pertes associés
 - Optimisation et comparaison de modèles en utilisant des méthodes de blending et stacking
-- Sélection du modéle Light GBM 
-- Création et déploiement d’un dashboard interactif avec Streamlit
+
+  **Résultats**
+- Sélection du modéle Light GBM
+- Création et déploiement d’un dashboard interactif avec prédiction live en utilisant Streamlit
 
 &nbsp;
 &nbsp;
@@ -47,8 +49,12 @@ Segmentation d’une base clients pour une entreprise de e-commerce et validatio
 - Création de variables interprétables et actionnables en termes marketing
 - Optimisation du nombre et de la taille des clusters avec les algorithmes k-Means et DB Scan
 - Visualisation des clusters par réduction de dimensions (ACP, t-SNE)
-- Interprétation des caractéristiques des clusters 
-- Validation de la stabilité des clusters retenus sur une période de 6 mois
+- Validation de la stabilité des clusters avec différents indicateurs
+
+**Résultats**
+- Sélection de 5 clusters avec k-Means
+- Interprétation des caractéristiques des clusters en termes marketing
+- Sankey digram illustrant la stabilité des clusters retenus sur une période de 6 mois
 
 &nbsp;
 &nbsp;
@@ -58,6 +64,7 @@ Segmentation d’une base clients pour une entreprise de e-commerce et validatio
 # Classification automatique d'articles
 ---------
 Faisabilité du classement automatique des articles d’un site de vente en ligne sur la base de la description et de la photo d’un article
+
 *NLP / Image processing / Transfer learning / Clustering*
 
 ![reconnaissance-articles-1](/assets/reconnaissance-articles-1.png)
@@ -85,6 +92,7 @@ Faisabilité du classement automatique des articles d’un site de vente en lign
 # Prédiction de consommation d'énergie
 ---------
 Développement d'un modèle de prédictions des consommations d’énergie et d'émissions de gaz à effets de serre pour des bâtiments tertiaires
+
 *Régression / Feature engineering / Hyper-paramètres / Métriques*
 
 ![energy-pred](/assets/energy-pred-1.png)
