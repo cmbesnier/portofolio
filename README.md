@@ -1,8 +1,9 @@
 # Portofolio Data Science
----------
----------
 Sélection de quelques projets dans le cadre de ma formation OpenClassrooms
+---------
+---------
 
+&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
@@ -29,6 +30,7 @@ Développement d’un modèle de détection du risque de faillite bancaire et d�
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
   
 ## Segmentation d'une base client
 ---------
@@ -47,6 +49,66 @@ Segmentation d’une base clients pour une entreprise de e-commerce et validatio
 - Visualisation des clusters par réduction de dimensions (ACP, t-SNE)
 - Interprétation des caractéristiques des clusters 
 - Validation de la stabilité des clusters retenus sur une période de 6 mois
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+# CLASSIFICATION AUTOMATIQUE D’ARTICLES
+---------
+Faisabilité du classement automatique des articles d’un site de vente en ligne sur la base de la description et de la photo d’un article
+*NLP / Image processing / Transfer learning / Clustering*
+
+![reconnaissance-articles-1](/assets/reconnaissance-articles-1.png)
+
+**Données**
+- Échantillon de 1050 articles répartis en 7 catégories avec nom, image et description
+
+**Démarche**
+- Extraction de features texte et images avec des modèles traditionnels
+- Comparaison des performances avec celles de réseaux de neurones pré-entraînés
+- Segmentation des articles en groupes aux caractéristiques similaires et comparaison avec les catégories réelles
+
+![reconnaissance-articles-1](/assets/reconnaissance-articles-2.png)
+
+**Résultats**
+Meilleurs résultats obtenus avec les algorithmes de Transfert Learning : 
+- Textes : ARI = 71% avec algorithme USE 
+- Images : ARI = 41% avec algorithme ResNet50
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+# PRÉDICTION DE CONSOMMATIONS D’ÉNERGIE ET ÉMISSIONS DE GAZ A EFFETS DE SERRE
+---------
+Développement d'un modèle de prédictions des consommations d’énergie de bâtiments tertiaires avec un apprentissage supervisé
+
+![energy-pred](/assets/energy-pred.png)
+
+**Données**
+- Caractéristiques énergie et émissions de 3 400 bâtiments de la Ville de Seattle pour 2015 et 2016 (open data)
+
+**Démarche**
+- Analyse exploratoire
+- Feature engineering : création de plusieurs variables pertinentes (catégorie de bâtiments, profil énergétique, ...)
+- Comparaison de plusieurs modèles de régression (Lasso, ElasticNet, SVR RandomForrest, XGBoost)
+- Optimisation des hyper-paramètres
+
+**Résultats**
+Sélection du modèle linéaire ElasticNet
+- R2 = 0,89 pour les consommations d’énergie
+- R2 = 0,81 pour les émissions de gaz à effet de serre
+
+
+
+
+
+
+
+
 
 
 
