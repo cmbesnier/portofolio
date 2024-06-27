@@ -1,7 +1,9 @@
 # Portofolio Data Science
 ---------
+---------
 Sélection de quelques projets dans le cadre de ma formation OpenClassrooms
 
+&nbsp;
 &nbsp;
 &nbsp;
 
@@ -24,6 +26,7 @@ Développement d’un modèle de détection du risque de faillite bancaire et d�
 - Sélection du modéle Light GBM 
 - Création et déploiement d’un dashboard interactif avec Streamlit
 
+&nbsp;
 &nbsp;
 &nbsp;
   
