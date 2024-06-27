@@ -2,12 +2,12 @@
 
 Sélection de quelques projets dans le cadre de ma formation OpenClassrooms
 
-&NewLine;
-&NewLine;
+&nbsp;
+&nbsp;
 
 ---------
-&NewLine;
-&NewLine;
+&nbsp;
+&nbsp;
 
 ## Implémentation d'un modèle de scoring
 
