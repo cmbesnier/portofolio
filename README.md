@@ -23,7 +23,7 @@ Développement d’un modèle de détection du risque de faillite bancaire et d�
 - Définition d’une métrique d’évaluation spécifique aux coûts et pertes associés
 - Optimisation et comparaison de modèles en utilisant des méthodes de blending et stacking
 
-  **Résultats**
+**Résultats**
 - Sélection du modéle Light GBM
 - Création et déploiement d’un dashboard interactif avec prédiction live en utilisant Streamlit
 
@@ -75,12 +75,14 @@ Faisabilité du classement automatique des articles d’un site de vente en lign
 - Comparaison des performances avec celles de réseaux de neurones pré-entraînés
 - Segmentation des articles en groupes aux caractéristiques similaires et comparaison avec les catégories réelles
 
+![reconnaissance-articles-1](/assets/reconnaissance-articles-2.png)
+
 **Résultats**
 - Meilleurs résultats obtenus avec les algorithmes de Transfert Learning : 
   - Textes : ARI = 71% avec algorithme USE 
   - Images : ARI = 41% avec algorithme ResNet50
  
- ![reconnaissance-articles-1](/assets/reconnaissance-articles-2.png)
+
 
 &nbsp;
 &nbsp;
