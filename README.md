@@ -1,11 +1,25 @@
+# Data Scientist
+⚡️Ingénieure avec 8 ans d’expérience dans l’énergie et l’aménagement urbain, j’ai ajouté une brique data science à mon profil en 2021. 
+🌍️ Curieuse, méthodique et organisée, j’aime me confronter à des problématiques métier variées, dans un contexte français ou international.
+[LinkedIn](https://www.linkedin.com/in/cmbesnier/)
+
+## Expériences professionnelles
+- Data scientist, ENERGIENCY, 2022-2024
+- Traductrice technique Anglais/Français, Freelance, 2019-2021
+- Expatriation aux Etats-Unis (bénévolat, formatrice en FLE), 2014-2018
+- Consultante Bâtiment, Energies & Climat, INDDIGO, 2010-2014
+- Consulante Éco-quartier, INDDIGO, 2008-2010
+
+## Formation
+- Data Scientist, OpenClassrooms & Centrale Supélec, 2021
+- Master Recherche Sciences et Techniques des environnements urbains, École d'Architecture de Nantes, 2008
+- Ingénieure Généraliste, Centrale Nantes, 2008
+&nbsp;
+&nbsp;
+
 # Portfolio Data Science
-Sélection de quelques projets dans le cadre de ma formation OpenClassrooms
-
+Voici une sélection de quelques projets réalisés dans le cadre de ma formation OpenClassrooms
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
 
 ## Implémentation d'un modèle de scoring
 ---------
@@ -110,7 +124,7 @@ Développement d'un modèle de prédictions des consommations d’énergie et d'
 - Optimisation des hyper-paramètres
 
 **Résultats**
-- Pertinence des variables crées, notamment le mix énergétique
+- Pertinence des variables créées, notamment le mix énergétique
 - Meilleures performances obtenues avec le modèle linéaire ElasticNet
  
 ![energy-pred](/assets/energy-pred-2.png)
