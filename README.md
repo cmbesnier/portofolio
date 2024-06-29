@@ -1,8 +1,11 @@
 # Data Scientist
-⚡️Ingénieure avec 8 ans d’expérience dans l’énergie et l’aménagement urbain, j’ai ajouté une brique data science à mon profil en 2021. 
+⚡️ Ingénieure avec 8 ans d’expérience dans l’énergie et l’aménagement urbain, j’ai ajouté une brique data science à mon profil en 2021. 
 
 🌍️ Curieuse, méthodique et organisée, j’aime me confronter à des problématiques métier variées, dans un contexte français ou international.
-[LinkedIn](https://www.linkedin.com/in/cmbesnier/)
+
+🌿 Je suis particulièrement intéressée par les domaines suivants : efficacité énergétique, énergies renouvelables, réseaux, mobilité, comptabilité carbone ou autre aspects de la transition écologique.
+
+👉 Mon profil [LinkedIn](https://www.linkedin.com/in/cmbesnier/)
 
 ## Expériences professionnelles
 - Data scientist, ENERGIENCY, 2022-2024
@@ -15,6 +18,7 @@
 - Data Scientist, OpenClassrooms & Centrale Supélec, 2021
 - Master Recherche Sciences et Techniques des environnements urbains, École d'Architecture de Nantes, 2008
 - Ingénieure Généraliste, Centrale Nantes, 2008
+
 &nbsp;
 &nbsp;
 &nbsp;
