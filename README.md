@@ -8,11 +8,11 @@
 👉 Mon [CV](/assets/CV-CM-BESNIER-2024-DS1P.pdf) et mon profil [LinkedIn](https://www.linkedin.com/in/cmbesnier/)
 
 ## Expériences professionnelles
-- Data scientist, ENERGIENCY, 2022-2024
+- Data scientist, [ENERGIENCY](https://www.energiency.com/fr/), 2022-2024
 - Traductrice technique Anglais/Français, Freelance, 2019-2021
 - Expatriation aux Etats-Unis (bénévolat, formatrice en FLE), 2014-2018
-- Consultante Bâtiment, Energies & Climat, INDDIGO, 2010-2014
-- Consulante Éco-quartier, INDDIGO, 2008-2010
+- Consultante Bâtiment, Energies & Climat, [INDDIGO](https://www.inddigo.com), 2010-2014
+- Consulante Éco-quartier, [INDDIGO](https://www.inddigo.com), 2008-2010
 
 ## Formation
 - Data Scientist, OpenClassrooms & Centrale Supélec, 2021
@@ -35,6 +35,7 @@ Développement d’un modèle de détection du risque de faillite bancaire et d�
 *Classification binaire / Métrique spécifique / Light GBM / Dashboard / Streamlit*
 
 ![Dashboard](/assets/bankloan-dashboard.png)
+Lien vers le [dashboard interactif](https://cmbesnier-credit-dashboard-main-wndjuj.streamlit.app/)
 
 **Données** 
 - 7 tables de données contenant des informations diverses sur plus de 300 000 clients ayant fait une ou plusieurs demandes de prêts  
@@ -47,7 +48,7 @@ Développement d’un modèle de détection du risque de faillite bancaire et d�
 
 **Résultats**
 - Sélection du modéle Light GBM
-- Création et déploiement d’un [dashboard interactif](https://cmbesnier-credit-dashboard-main-wndjuj.streamlit.app/) avec prédiction live en utilisant Streamlit
+- Création et déploiement d’un dashboard interactif avec prédiction en direct en utilisant GitHub et Streamlit
 - [Note méthodologique](https://github.com/cmbesnier/credit-dashboard/blob/main/P7-03-note%20me%CC%81thodologique.pdf) / [Repo Github](https://github.com/cmbesnier/credit-dashboard/)
 
 &nbsp;
