@@ -5,7 +5,7 @@
 
 🌿 Je suis particulièrement intéressée par les domaines suivants : efficacité énergétique, énergies renouvelables, réseaux, mobilité, comptabilité carbone ou autre aspects de la transition écologique.
 
-👉 Mon profil [LinkedIn](https://www.linkedin.com/in/cmbesnier/)
+👉 Mon [CV](/assets/CV-CM-BESNIER-2024-DS1P.pdf) et mon profil [LinkedIn](https://www.linkedin.com/in/cmbesnier/)
 
 ## Expériences professionnelles
 - Data scientist, ENERGIENCY, 2022-2024
